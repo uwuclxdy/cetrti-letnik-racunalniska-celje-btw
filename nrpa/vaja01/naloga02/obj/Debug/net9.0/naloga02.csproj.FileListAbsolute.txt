@@ -1,0 +1,14 @@
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/bin/Debug/net9.0/naloga02
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/bin/Debug/net9.0/naloga02.deps.json
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/bin/Debug/net9.0/naloga02.runtimeconfig.json
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/bin/Debug/net9.0/naloga02.dll
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/bin/Debug/net9.0/naloga02.pdb
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/obj/Debug/net9.0/naloga02.GeneratedMSBuildEditorConfig.editorconfig
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/obj/Debug/net9.0/naloga02.AssemblyInfoInputs.cache
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/obj/Debug/net9.0/naloga02.AssemblyInfo.cs
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/obj/Debug/net9.0/naloga02.csproj.CoreCompileInputs.cache
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/obj/Debug/net9.0/naloga02.dll
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/obj/Debug/net9.0/refint/naloga02.dll
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/obj/Debug/net9.0/naloga02.pdb
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/obj/Debug/net9.0/naloga02.genruntimeconfig.cache
+/home/uwuclxdy/Documents/nrpa/vaja01/naloga02/obj/Debug/net9.0/ref/naloga02.dll

@@ -1,0 +1,14 @@
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/bin/Debug/net8.0/DeloZLiki
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/bin/Debug/net8.0/DeloZLiki.deps.json
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/bin/Debug/net8.0/DeloZLiki.runtimeconfig.json
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/bin/Debug/net8.0/DeloZLiki.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/bin/Debug/net8.0/DeloZLiki.pdb
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/obj/Debug/net8.0/DeloZLiki.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/obj/Debug/net8.0/DeloZLiki.AssemblyInfoInputs.cache
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/obj/Debug/net8.0/DeloZLiki.AssemblyInfo.cs
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/obj/Debug/net8.0/DeloZLiki.csproj.CoreCompileInputs.cache
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/obj/Debug/net8.0/DeloZLiki.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/obj/Debug/net8.0/refint/DeloZLiki.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/obj/Debug/net8.0/DeloZLiki.pdb
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/obj/Debug/net8.0/DeloZLiki.genruntimeconfig.cache
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/DeloZLiki/obj/Debug/net8.0/ref/DeloZLiki.dll

@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_Knjiznice/Datum_Knjiznice.csproj": {}
+  },
+  "projects": {
+    "/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_Knjiznice/Datum_Knjiznice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_Knjiznice/Datum_Knjiznice.csproj",
+        "projectName": "Datum_Knjiznice",
+        "projectPath": "/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_Knjiznice/Datum_Knjiznice.csproj",
+        "packagesPath": "/home/uwuclxdy/.nuget/packages/",
+        "outputPath": "/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_Knjiznice/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/uwuclxdy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_TriStevila/Datum_TriStevila.csproj": {
+                "projectPath": "/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_TriStevila/Datum_TriStevila.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.20, 8.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.20, 8.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_TriStevila/Datum_TriStevila.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_TriStevila/Datum_TriStevila.csproj",
+        "projectName": "Datum",
+        "projectPath": "/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_TriStevila/Datum_TriStevila.csproj",
+        "packagesPath": "/home/uwuclxdy/.nuget/packages/",
+        "outputPath": "/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_TriStevila/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/uwuclxdy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.20, 8.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tY4OsBkR+Xk=",
+  "success": true,
+  "projectFilePath": "/mnt/hdd-1/Šola/R4B/nrpa/vaja03/CDteka/CDteka.csproj",
+  "expectedPackageFiles": [
+    "/home/uwuclxdy/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

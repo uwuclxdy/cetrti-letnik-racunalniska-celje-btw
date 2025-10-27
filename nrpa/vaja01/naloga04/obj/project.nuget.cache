@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hm8ueqGo64=",
+  "success": true,
+  "projectFilePath": "/mnt/hdd-1/Šola/R4B/nrpa/vaja01/naloga04/naloga04.csproj",
+  "expectedPackageFiles": [
+    "/home/uwuclxdy/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

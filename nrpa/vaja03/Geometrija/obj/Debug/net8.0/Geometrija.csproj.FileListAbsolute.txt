@@ -1,0 +1,14 @@
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/bin/Debug/net8.0/Geometrija
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/bin/Debug/net8.0/Geometrija.deps.json
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/bin/Debug/net8.0/Geometrija.runtimeconfig.json
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/bin/Debug/net8.0/Geometrija.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/bin/Debug/net8.0/Geometrija.pdb
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/obj/Debug/net8.0/Geometrija.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/obj/Debug/net8.0/Geometrija.AssemblyInfoInputs.cache
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/obj/Debug/net8.0/Geometrija.AssemblyInfo.cs
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/obj/Debug/net8.0/Geometrija.csproj.CoreCompileInputs.cache
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/obj/Debug/net8.0/Geometrija.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/obj/Debug/net8.0/refint/Geometrija.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/obj/Debug/net8.0/Geometrija.pdb
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/obj/Debug/net8.0/Geometrija.genruntimeconfig.cache
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/obj/Debug/net8.0/ref/Geometrija.dll

@@ -1,0 +1,11 @@
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/CDteka/bin/Debug/net8.0/CDteka.deps.json
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/CDteka/bin/Debug/net8.0/CDteka.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/CDteka/bin/Debug/net8.0/CDteka.pdb
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/CDteka/obj/Debug/net8.0/CDteka.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/CDteka/obj/Debug/net8.0/CDteka.AssemblyInfoInputs.cache
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/CDteka/obj/Debug/net8.0/CDteka.AssemblyInfo.cs
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/CDteka/obj/Debug/net8.0/CDteka.csproj.CoreCompileInputs.cache
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/CDteka/obj/Debug/net8.0/CDteka.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/CDteka/obj/Debug/net8.0/refint/CDteka.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/CDteka/obj/Debug/net8.0/CDteka.pdb
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/CDteka/obj/Debug/net8.0/ref/CDteka.dll

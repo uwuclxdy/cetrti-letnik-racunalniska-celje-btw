@@ -1,0 +1,14 @@
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/bin/Debug/net9.0/naloga01
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/bin/Debug/net9.0/naloga01.deps.json
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/bin/Debug/net9.0/naloga01.runtimeconfig.json
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/bin/Debug/net9.0/naloga01.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/bin/Debug/net9.0/naloga01.pdb
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/obj/Debug/net9.0/naloga01.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/obj/Debug/net9.0/naloga01.AssemblyInfoInputs.cache
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/obj/Debug/net9.0/naloga01.AssemblyInfo.cs
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/obj/Debug/net9.0/naloga01.csproj.CoreCompileInputs.cache
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/obj/Debug/net9.0/naloga01.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/obj/Debug/net9.0/refint/naloga01.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/obj/Debug/net9.0/naloga01.pdb
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/obj/Debug/net9.0/naloga01.genruntimeconfig.cache
+/mnt/hdd-1/Šola/R4B/nrpa/vaja02/naloga01/obj/Debug/net9.0/ref/naloga01.dll

@@ -1,0 +1,11 @@
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_DateTime/bin/Debug/net8.0/Datum.deps.json
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_DateTime/bin/Debug/net8.0/Datum.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_DateTime/bin/Debug/net8.0/Datum.pdb
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_DateTime/obj/Debug/net8.0/Datum_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_DateTime/obj/Debug/net8.0/Datum_DateTime.AssemblyInfoInputs.cache
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_DateTime/obj/Debug/net8.0/Datum_DateTime.AssemblyInfo.cs
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_DateTime/obj/Debug/net8.0/Datum_DateTime.csproj.CoreCompileInputs.cache
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_DateTime/obj/Debug/net8.0/Datum.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_DateTime/obj/Debug/net8.0/refint/Datum.dll
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_DateTime/obj/Debug/net8.0/Datum.pdb
+/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Datum_DateTime/obj/Debug/net8.0/ref/Datum.dll

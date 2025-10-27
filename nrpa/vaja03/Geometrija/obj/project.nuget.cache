@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tBNnj44m0HU=",
+  "success": true,
+  "projectFilePath": "/mnt/hdd-1/Šola/R4B/nrpa/vaja03/Geometrija/Geometrija.csproj",
+  "expectedPackageFiles": [
+    "/home/uwuclxdy/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/uwuclxdy/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.20/microsoft.netcore.app.host.linux-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
